@@ -239,7 +239,3 @@ CHUNK_OVERLAP=64
 3. Submit a PR
 
 ---
-
-## 📄 License
-
-MIT — built with ❤️ on top of [Endee](https://github.com/endee-io/endee) (Apache-2.0)
